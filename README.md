@@ -33,3 +33,6 @@ Pour stocker les informations liées aux utilisateurs, aux requêtes et aux imag
 ## Remarques
 - L'application nécessite une clé API valide d'OpenAI pour fonctionner correctement. Assurez-vous de la configurer de manière sécurisée.
 - Prenez en compte les limites d'utilisation et les coûts associés à l'utilisation de l'API d'OpenAI pour la génération d'images.
+
+--------
+https://platform.openai.com/api-keys (récuperer clé API).
