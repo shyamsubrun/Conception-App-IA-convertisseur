@@ -4,7 +4,7 @@ from requests.structures import CaseInsensitiveDict
 import json
 
 
-openai.api_key = "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"
+openai.api_key = "votré clé api"
 # stocke phrase que lon veut generer
 description = "image of water and flor "
 # envoie requete Api pour la generer
